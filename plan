@@ -1,0 +1,26 @@
+1. understand the code structure
+
+2. possible improvements: 
+    - add a loading animation between jokes in case of slow computers/bad internet 
+    - choose the genre of jokes (if api allows)
+    - make it accessible by adding aria labels
+    - retrieve jokes from api
+    - limitation: only a few
+ 
+3. get api url - https://icanhazdadjoke.com/
+
+4. fetch api 
+
+5. get json response
+
+6. see what the response looks like by console.logging it
+
+7. check differences: make sure it can match what we already have - e.g. an id and a joke (to keep as simple as possible)
+
+8. check if we can use our random index?
+
+9. check how it will alter the existing functions?
+
+10. check if it updates on the DOM
+
+11. test if pressing button generates a new joke
